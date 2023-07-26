@@ -1,0 +1,19 @@
+#color {
+    color: navy;
+    background-color: cyan;
+    margin: auto;
+    text-align: center;
+    opacity: 0.6;
+    width: 100%;
+    border-radius: 5px ;
+}
+#center {
+    border-color: black;
+    margin-top: 50px;
+    padding-top: 20px;
+    border: 3px solid blueviolet;
+    background-color: aquamarine;
+    height: 450px;
+    color: black;
+    border-radius: 5px;
+}
